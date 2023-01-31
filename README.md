@@ -11,6 +11,10 @@ Open for PR's and contributions!
 
 Use versions below v2.0.0 for react versions lower than 16.
 
+## Fork Information
+
+This fork was only created to provide a version that works with react 17 and 18.
+
 ## Demo & Examples
 
 Live demo: [gor181.github.io/react-notification-system-redux](http://gor181.github.io/react-notification-system-redux/)
